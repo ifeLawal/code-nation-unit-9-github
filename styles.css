@@ -1,0 +1,17 @@
+.section-holder {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.padding-30 {
+    padding: 30px;
+}
+
+.ife-section {
+    background-color: aliceblue;
+}
+
+.emily-rose-section {
+    background-color: royalblue;
+    color: #FFF;
+}
